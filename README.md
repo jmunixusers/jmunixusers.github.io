@@ -11,15 +11,13 @@ provide a forum for education and advocacy in the FOSS ecosystem.
 ## Meetings
 
 Our meetings are Wednesday nights at 6:30 in room 246 of the ISAT/CS building.
-For information about upcoming meeting topics, please see the following sites:
+For information about our meeting topics, please see the following sites:
 
 - [BeInvolved](https://beinvolved.jmu.edu/organization/uug)
 - [Twitter](https://twitter.com/jmunixusers)
 - [GEEK-L Mailing List](https://listserv.jmu.edu/cgi-bin/wa?A0=GEEK-L)
-
-Notes and scripts from previous presentations and meetings are also published on
-[GitHub](http://www.jmunixusers.org/presentations/). For information on future
-meetings, please see [our wiki](https://github.com/jmunixusers/presentations/wiki).
+- [Presentations archive](https://www.jmunixusers.org/presentations/)
+- [Planning wiki](https://github.com/jmunixusers/presentations/wiki)
 
 ## Projects
 
