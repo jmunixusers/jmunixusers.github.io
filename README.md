@@ -1,4 +1,4 @@
-![UUG Tux Logo](jmutux.png)
+![UUG Tux Logo](jmutux2.png)
 
 Welcome to the home of the UUG, JMU's
 [2nd best penguin club](https://beinvolved.jmu.edu/organization/prevetsociety).
