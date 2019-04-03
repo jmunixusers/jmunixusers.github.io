@@ -1,8 +1,6 @@
 ![UUG Tux Logo](jmutux.png)
 
-# JMU Unix Users Group
-
-Welcome to the JMU UUG homepage, JMU's
+Welcome to the home of the UUG, JMU's
 [2nd best penguin club](https://beinvolved.jmu.edu/organization/prevetsociety).
 The UUG is a group of Linux and Unix-like operating system users, as well
 as other open-source software users based at James Madison University. We
