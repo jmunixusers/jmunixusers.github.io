@@ -1,4 +1,4 @@
-![UUG Tux Logo](jmutux2.png)
+![UUG Tux Logo](MaskedTuxWeb.png)
 
 Welcome to the home of the UUG, JMU's
 [2nd best penguin club](https://beinvolved.jmu.edu/organization/prevetsociety).
@@ -10,11 +10,11 @@ advocacy in the FOSS ecosystem.
 
 ## Meetings
 
-When JMU classes are in session, our meetings are Wednesday nights in the
-ISAT/CS building and are open to all to attend. We also hold occasional meetings
-on WebEx outside the semester and during global pandemics. For an invitation to
-an online meeting, contact an officer or subscribe to our mailing list. For
-information about our meeting topics, please see the following sites:
+When JMU classes are in session, our meetings are Wednesday nights on Microsoft
+Teams and are open to all to attend. When JMU returns to normal operations, we
+look forward to resuming in-person meetings in the ISAT/CS building.  For an
+invitation to an online meeting, contact an officer or subscribe to our mailing
+list. For information about our meeting topics, please see the following sites:
 
 - [BeInvolved](https://beinvolved.jmu.edu/organization/uug)
 - [Twitter](https://twitter.com/jmunixusers)
