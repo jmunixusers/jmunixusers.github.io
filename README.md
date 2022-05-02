@@ -1,7 +1,7 @@
-![UUG Tux Logo](MaskedTuxWeb.png)
+![UUG Tux Logo](jmutux2.png)
 
 Welcome to the home of the UUG, JMU's
-[2nd best penguin club](https://beinvolved.jmu.edu/organization/prevetsociety).
+[2nd best penguin club](https://beinvolved.jmu.edu/student_community?club_id=65967).
 The UUG is a group of Linux and Unix-like operating system users, as well
 as other open-source software users based at James Madison University. We work
 alongside [several other clubs](https://wiki.cs.jmu.edu/student/clubs/start)
@@ -10,13 +10,14 @@ advocacy in the FOSS ecosystem.
 
 ## Meetings
 
-When JMU classes are in session, our meetings are Wednesday nights on ISAT/CS
-236 and are open to all to attend. To join our mailing list or Microsoft Teams 
-chat, or for any other questions, contact an officer. For information about our
-meeting topics, please see the following sites:
+When JMU classes are in session, our meetings are Wednesday nights in King 236
+and are open to all to attend. To join our mailing list or Discord chat, or for
+any other questions, contact an officer. For information about our meeting
+topics, please see the following sites:
 
-- [BeInvolved](https://beinvolved.jmu.edu/organization/uug)
+- [BeInvolved](https://beinvolved.jmu.edu/student_community?club_id=66017)
 - [Twitter](https://twitter.com/jmunixusers)
+- [Instagram](https://www.instagram.com/jmunixusers/)
 - [GEEK-L Mailing List](https://listserv.jmu.edu/cgi-bin/wa?A0=GEEK-L)
 - [Presentations archive](https://www.jmunixusers.org/presentations/)
 - [Planning wiki](https://github.com/jmunixusers/presentations/wiki)
