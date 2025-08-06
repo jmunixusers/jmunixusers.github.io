@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 title: JMU Unix Users Group
+show_downloads: false
+github:
+  is_project_page: false
