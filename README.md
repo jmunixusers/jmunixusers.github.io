@@ -18,6 +18,7 @@ topics, please see the following sites:
 - [Discord Chat](https://discord.gg/gVSfrZWnbu)
 - [BeInvolved](https://beinvolved.jmu.edu/student_community?club_id=66017)
 - [Instagram](https://www.instagram.com/jmunixusers/)
+- [LinkedIn](https://www.linkedin.com/company/jmunixusers/)
 - [GEEK-L Mailing List](https://listserv.jmu.edu/cgi-bin/wa?A0=GEEK-L)
 - [Presentations archive](https://www.jmunixusers.org/presentations/)
 - [Planning wiki](https://github.com/jmunixusers/presentations/wiki)
