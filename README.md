@@ -12,8 +12,8 @@ advocacy in the FOSS ecosystem.
 Hoodies, crew necks, tshirts, and quarter-zips available for CS and IT. Order by
 November 4th. We ship to alumni out of town.
 
-- CS order form: https://forms.gle/agushTamqWsUks7a7
-- IT order form: https://forms.gle/m2YnXz6vcCCXZVru8
+- CS order form: <https://forms.gle/agushTamqWsUks7a7>
+- IT order form: <https://forms.gle/m2YnXz6vcCCXZVru8>
 
 ## Meetings
 
