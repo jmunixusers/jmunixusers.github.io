@@ -8,6 +8,13 @@ alongside [several other clubs](https://wiki.cs.jmu.edu/student/clubs/start)
 in JMU's Computer Science department to provide a forum for education and
 advocacy in the FOSS ecosystem.
 
+## Merch
+Hoodies, crew necks, tshirts, and quarter-zips available for CS and IT. Order by
+November 4th. We ship to alumni out of town.
+
+- CS order form: https://forms.gle/agushTamqWsUks7a7
+- IT order form: https://forms.gle/m2YnXz6vcCCXZVru8
+
 ## Meetings
 
 When JMU classes are in session, our meetings are Wednesday nights in King 236
